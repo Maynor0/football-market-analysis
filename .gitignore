@@ -1,10 +1,10 @@
 # Python
 __pycache__/
 *.py[cod]
-*$py.class
+*.pyo
 *.so
 
-# Environments
+# Entornos
 .env
 .venv/
 venv/
@@ -14,17 +14,34 @@ ENV/
 # Jupyter
 .ipynb_checkpoints/
 
+# Excel temporales
+~$*.xlsx
+~$*.xls
+
+# Power BI
+**/.pbi/
+*.pbip.user
+*.pbit
+cache.abf
+localSettings.json
+.vs/
+
 # OS
 .DS_Store
 Thumbs.db
-
-# Excel / Office temporales
-~$*.xlsx
-~$*.xls
-*.tmp
-*.temp
 
 # Build / packaging
 build/
 dist/
 *.egg-info/
+
+# Opcional si luego haces testing / lint
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.pytype/
