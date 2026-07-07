@@ -26,6 +26,12 @@ cache.abf
 localSettings.json
 .vs/
 
+# SQL / bases locales
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+
 # OS
 .DS_Store
 Thumbs.db
