@@ -77,13 +77,9 @@ Fecha y Equipos (Bromley VS Cheltenham)
     └── Probabilidades de Mercado (Cuotas)
 ```
 
-#### 2️⃣ **Hoja "PlantillaCasav7"** - Plantilla para Llenar (Local)
+#### 2️⃣ **Hoja "PlantillaCasav7"** - Plantilla para Llenar 
 
 Una plantilla **vacía** para que ingreses datos de nuevos partidos.
-
-#### 3️⃣ **Hoja "PlantillaAfuerav7"** - Plantilla para Visitante
-
-Igual que anterior, pero enfocada en **datos del equipo visitante**.
 
 #### 4️⃣ **Hoja "INFO"** - Guía de Referencia
 
