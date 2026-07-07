@@ -2,6 +2,6 @@
 
 Plantillas y documentación para análisis de apuestas deportivas basadas en datos.
 
-## Overview
+# Sports Analysis Systems
 
-Repositorio con sistemas para analizar córners, tarjetas, BTTS, validación de mercado y reportes en Excel, Python y Power BI.
+Plantillas y documentación para análisis de apuestas deportivas basadas en datos.
