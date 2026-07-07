@@ -1,11 +1,9 @@
 # sports-analysis-systems
 Plantillas y documentación para análisis de apuestas deportivas basadas en datos..
 
-# Sports Analysis Systems
+## Overview
 
 Repositorio con plantillas y documentación para análisis de córners, tarjetas, BTTS y validación de mercado.
-
-## Overview
 
 Este proyecto reúne varios módulos de análisis deportivo y sus plantillas de trabajo.
 
