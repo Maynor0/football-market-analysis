@@ -110,7 +110,7 @@ Muchas casas (Bet365, William Hill) usan puntos:
 
 **Estrategia V2:**
 Si el árbitro es "tarjetero" pero NO saca rojas (miedo escénico), apuesta al **Hándicap Asiático de Tarjetas (Over 4.5)**, no a puntos.
-Si el árbitro pierde el control (muchas rojas), apuesta a **Puntos (Over 55.5)**, porque una roja te paga la línea sola.
+Si el árbitro pierde el control (muchas rojas), apuesta a **Puntos (Over 5.5)**, porque una roja te paga la línea sola.
 
 ---
 
