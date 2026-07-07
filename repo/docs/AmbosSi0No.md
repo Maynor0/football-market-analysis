@@ -1,4 +1,4 @@
-# 📙 TUTORIAL COMPLETO: AMBOSSI0NO (VERSIÓN 2.0 PRO) - SISTEMA BTTS
+# 📙 TUTORIAL COMPLETO: AMBOSSI0NO  - SISTEMA BTTS
 
 **Versión:** 2.0 (Mejorada con xG y Análisis de Juego)
 **Mercado:** Both Teams To Score (BTTS) - YES/NO
