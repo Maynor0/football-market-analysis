@@ -403,4 +403,3 @@ PASO 5: DECISIÓN FINAL [5 segundos]
 **Sistema v2.0: MUESTRA + LIQUIDEZ + VOLUMEN - 06/01/2026 16:30 CET**
 **Aplicación**: Búsqueda en 10 casas + Filtro por liquidez + Decisión por volumen
 **Impacto**: Hit rate teórico 60% → Hit rate real 65-70% (validado)
-**Tiempo**: 30 segundos por pick (búsqueda + análisis + decisión)
