@@ -222,6 +222,5 @@ ANTES DE ENVIAR:
 
 ---
 
-**Última actualización:** Diciembre 20, 2025 | V2.0 Pro
-**Status:** Listo para integración en tu sistema de 3 pilares (Cornv8 + TarjetaV1 + AmbosSi0No)
-**ROI Esperado:** Si integras bien, +5-8% anual en BTTS adicional.
+**Última actualización:** Diciembre 20, 2025 | 
+ (Cornv8 + TarjetaV1 + AmbosSi0No)
