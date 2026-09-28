@@ -1,4 +1,4 @@
-# 📕 TUTORIAL COMPLETO: TARJETAV1 (VERSIÓN 2.0 PRO) - SISTEMA DE ANÁLISIS DE DISCIPLINA
+# 📕 TUTORIAL COMPLETO: TARJETAV1 (VERSIÓN 2) - SISTEMA DE ANÁLISIS DE DISCIPLINA
 
 **Versión:** 2.0 (Mejorada para Precisión Estadística)
 **Mercado:** Tarjetas (Over/Under, Hándicap, Puntos por Tarjeta)
