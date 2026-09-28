@@ -383,20 +383,7 @@ PASO 5: DECISIÓN FINAL [5 segundos]
 - Hit rate: 60% teórico, 65-70% real (cercano)
 - Razón: Solo picks validados (8-10/10 casas)
 
----
 
-## 📌 CONCLUSIÓN: SISTEMA MUESTRA + LIQUIDEZ + VOLUMEN
-
-**Tu sistema es BRILLANTE porque**:
-
-✅ Pregunta a 10 casas (MUESTRA)
-✅ Valida si comunidad se interesa (LIQUIDEZ)
-✅ Confirma si hay dinero real (VOLUMEN)
-✅ Filtra ruido aleatorio
-✅ Prioriza mercados sólidos
-✅ Reduce stakes automáticamente según liquidez
-
-**RESULTADO**: Hit rate REAL cercano a teórico (5-10pp de mejora)
 
 ---
 
