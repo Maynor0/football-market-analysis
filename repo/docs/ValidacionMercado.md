@@ -356,34 +356,6 @@ PASO 5: DECISIÓN FINAL [5 segundos]
 0/10 → ❌ SKIP
 ```
 
----
-
-## 💡 POR QUÉ FUNCIONA: MUESTRA + LIQUIDEZ + VOLUMEN
-
-**Los 3 conceptos trabajan juntos**:
-
-1. **MUESTRA** = Preguntas a la comunidad global (10 casas)
-2. **LIQUIDEZ** = Validas si comunidad se interesa (cuántas responden)
-3. **VOLUMEN** = Confirmas si hay dinero REAL (cuánta gente apuesta)
-
-**RESULTADO FINAL**:
-- Pick en 10/10 casas = 100,000+ personas apuestan = Probabilidad real ≈ Cuota ✅
-- Pick en 1/10 casas = 200 personas apuestan = Probabilidad real ≠ Cuota ❌
-
-**IMPACTO EN HIT RATE**:
-- Picks 10/10 validados = +70% hit rate (vs teórico 60%)
-- Picks 1/10 ilíquidos = -40% hit rate (vs teórico 60%)
-- Sistema filtra ruido = Hit rate REAL sube 5-10pp
-
-**ANTES DEL SISTEMA**:
-- Hit rate: 60% teórico, 45% real (error 15pp)
-- Razón: Incluía picks ilíquidos (0/10, 1/10)
-
-**DESPUÉS DEL SISTEMA**:
-- Hit rate: 60% teórico, 65-70% real (cercano)
-- Razón: Solo picks validados (8-10/10 casas)
-
-
 
 ---
 
